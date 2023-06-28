@@ -1,0 +1,22 @@
+__loadDisplayList__7d2188b5([
+  {
+    "group": "common",
+    "name": "city_vs_highway_mpg",
+    "desc": "",
+    "n": 32,
+    "height": 500,
+    "width": 500,
+    "updated": "2023-06-28 13:49:40",
+    "keySig": "d33ea84d5049d872aa7018023b76dc09"
+  },
+  {
+    "group": "common",
+    "name": "city_vs_highway_mpg2",
+    "desc": "",
+    "n": 32,
+    "height": 500,
+    "width": 500,
+    "updated": "2023-06-28 13:49:42",
+    "keySig": "d33ea84d5049d872aa7018023b76dc09"
+  }
+])
